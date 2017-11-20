@@ -1,4 +1,4 @@
-# module-hide-homepage-emails
+# RedcapModule_StealthQueue
 This module sends REDCap's survey queue under cover. When employed, survey queue will function normally but will work silently and invisibly. And the REDCap user will not know it is there.
 
 **Notes**: 
