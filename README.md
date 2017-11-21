@@ -9,10 +9,9 @@ Paul Litwin, Fred Hutchinson Cancer Research Center
 2. Do not enable this module where you wish for users to be aware of survey queue or where you need for them to start surveys at their option.
 
 ## How it Works
-Stealth Queue works by injecting some JavaScript into the survey and survey completion pages to hide survey queue icons and text.
-
-### Without Survey Queue
-
+Stealth Queue works by injecting some JavaScript into a couple of pages that hides:
+1. the survey queue heading (normally displayed in the top right corner of each page of a survey in the queue) via the *redcap_survey_page* hook, and
+2. the surey queue table (normally displayed at the bottom of the survey queue completion page) via the *redcap_survey_complete* hook.
 
 ## Version History
 v1.0 -- initial version. 2017 Nov 20.
