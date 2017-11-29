@@ -14,7 +14,7 @@ Stealth Queue works by injecting some JavaScript into a couple of pages that hid
 2. the surey queue table (normally displayed at the bottom of the survey queue completion page) via the *redcap_survey_complete* hook.
 
 ### Before Stealth Queue
-This appears at the top of each page:
+Notice the survey queue widget that appears at the top right of each survey page:
 
 ![top right of each survey page before Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/sq1.PNG "top right of each survey page before Stealth Queue")
 
