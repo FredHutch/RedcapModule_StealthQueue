@@ -13,5 +13,23 @@ Stealth Queue works by injecting some JavaScript into a couple of pages that hid
 1. the survey queue heading (normally displayed in the top right corner of each page of a survey in the queue) via the *redcap_survey_page* hook, and
 2. the surey queue table (normally displayed at the bottom of the survey queue completion page) via the *redcap_survey_complete* hook.
 
+### Before Stealth Queue
+Notice the survey queue widget that appears at the top right of each survey page:
+
+![top right of each survey page before Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/sq1.PNG "top right of each survey page before Stealth Queue")
+
+And the survey queue table appears when the surveys are done:
+
+![top right of each survey page before Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/sq2.PNG "survey queue table before Stealth Queue")
+### After Stealth Queue
+No more little survey queue widget at the top of each survey page:
+
+![top right of each survey page after Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/stq1.PNG "top right of each survey page after Stealth Queue")
+
+And no more table at the end of the queue:
+
+![top right of each survey page after Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/stq2.PNG "survey queue table after Stealth Queue")
+
+
 ## Version History
 v1.0 -- initial version. 2017 Nov 20.
