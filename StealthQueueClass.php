@@ -19,11 +19,11 @@ class StealthQueueClass extends AbstractExternalModule {
     function redcap_survey_complete($project_id, $record, $instrument, $event_id, $group_id, $repeat_instance) 
     {
         ?>
-			<script type="text/javascript">
-			$(document).ready(function() {
-				$("#survey_queue").hide();
-			});
-			</script>
-			<?php	
+        <script type="text/javascript">
+        $(document).ready(function() {
+            $("#survey_queue").hide();
+        });
+        </script>
+        <?php	
     }    
 }
