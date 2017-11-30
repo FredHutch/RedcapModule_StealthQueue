@@ -20,7 +20,7 @@ Notice the survey queue widget that appears at the top right of each survey page
 
 And the survey queue table appears when the surveys are done:
 
-![top right of each survey page before Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/sq2.PNG "survey queue table before Stealth Queue")
+![end of survey queue before Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/sq2.PNG "survey queue table before Stealth Queue")
 ### After Stealth Queue
 No more little survey queue widget at the top of each survey page:
 
@@ -28,7 +28,7 @@ No more little survey queue widget at the top of each survey page:
 
 And no more table at the end of the queue:
 
-![top right of each survey page after Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/stq2.PNG "survey queue table after Stealth Queue")
+!end of survey queue after Stealth Queue](https://github.com/FredHutch/RedcapModule_StealthQueue/blob/master/docs/stq2.PNG "survey queue table after Stealth Queue")
 
 
 ## Version History
